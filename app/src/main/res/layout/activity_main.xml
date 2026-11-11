@@ -60,7 +60,7 @@
         android:id="@+id/txtFooter"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="12dp"
+        android:layout_marginBottom="20dp"
         android:text="PrésenceManager - Version 1.0"
         android:textColor="#94A3B8"
         android:textSize="12sp"
